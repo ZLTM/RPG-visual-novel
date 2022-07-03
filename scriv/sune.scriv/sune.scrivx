@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="2.0" Identifier="A3E4D7DA-B159-499A-AB2D-06AADA38A834" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-BVUPEM0" Modified="2022-07-03 17:12:36 -0400" ModID="2B59209D-8B61-4B48-8CE8-BFD1D2EF5723">
+    <Binder>
+        <BinderItem UUID="4BC5A8B2-ECF0-4276-95B8-180491ED1288" Type="Text" Created="2018-07-26 10:40:09 -0400" Modified="2021-02-24 23:44:46 -0400">
+            <Title>Screenplay Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2018-07-26 10:40:09 -0400" Modified="2018-07-26 10:40:09 -0400">
+            <Title>Screenplay</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem UUID="1938150C-AE2B-449D-877D-7562C3A19ED3" Type="Text" Created="2018-07-26 10:40:09 -0400" Modified="2021-02-24 23:45:48 -0400">
+                    <Title>Scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="6EE00691-B91E-46AB-A1D8-9145E3AC0E7E" Type="Folder" Created="2018-07-26 10:40:09 -0400" Modified="2018-07-26 10:40:09 -0400">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="09250003-E83D-40B9-9003-A3805902D5F2" Type="Text" Created="2018-07-26 10:40:09 -0400" Modified="2022-07-03 17:12:34 -0400">
+                    <Title>Title Page</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <SectionType>924AD3CF-7782-4CCC-B7B9-186F46AE3305</SectionType>
+                        <NotesTextSelection>77,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="55A25815-1DD9-4C73-930B-2DAFDF44E64A" Type="Folder" Created="2018-07-26 10:40:09 -0400" Modified="2018-07-26 10:40:09 -0400">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="BF2494D2-793A-4113-90B8-269A5D382A91" Type="Folder" Created="2018-07-26 10:40:09 -0400" Modified="2018-07-26 10:40:09 -0400">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED" Type="Folder" Created="2018-07-26 10:40:09 -0400" Modified="2018-07-26 10:40:09 -0400">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Yellow Notepad).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="56F3251B-33DB-489A-8F16-B05AE53D648A" Type="ResearchFolder" Created="2018-07-26 10:40:09 -0400" Modified="2018-07-26 10:40:09 -0400">
+            <Title>Research</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem UUID="8E4404F9-1F6E-447D-85BF-D5A7880E6ACC" Type="PDF" Created="2021-02-25 01:46:57 -0400" Modified="2021-02-25 02:10:49 -0400">
+                    <Title>Sample Script</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="0B19D630-7D8D-4209-9D3D-205B3441842A" Type="Folder" Created="2018-07-26 10:40:09 -0400" Modified="2018-07-26 10:40:09 -0400">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="3902C875-2EB1-4EE1-B4D1-1B8CB48720D2" Type="Text" Created="2021-02-24 23:48:52 -0400" Modified="2021-02-24 23:48:52 -0400">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="14">0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E1C67996-7695-4755-8958-B0EFCD092AD2" Type="Text" Created="2021-02-24 23:48:52 -0400" Modified="2021-02-24 23:48:52 -0400">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="15">0,15</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F4B0825A-2389-47FD-9E79-22D353C5F555" Type="TrashFolder" Created="2018-07-26 10:40:09 -0400" Modified="2018-07-26 10:40:09 -0400">
+            <Title>Trash</Title>
+            <MetaData/>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.164706 0.164706 0.164706">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="68DB4E73-0B33-4FEE-9600-053ED547B6DC" Color="0.392157 0.392157 0.392157">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="09E14DB8-CBCA-40B6-82E2-1DB34FBEDBBB">Group</Type>
+            <Type ID="3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14">Scene</Type>
+            <Type ID="924AD3CF-7782-4CCC-B7B9-186F46AE3305">Front Matter</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>09E14DB8-CBCA-40B6-82E2-1DB34FBEDBBB</Type>
+            </Folders>
+            <Containers>
+                <Type>3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14</Type>
+            </Containers>
+            <Files>
+                <Type>3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="3" Color="0.993500 0.701213 0.732586">Red</Label>
+            <Label ID="4" Color="0.995422 0.790951 0.652384">Orange</Label>
+            <Label ID="5" Color="0.997726 0.892729 0.652567">Yellow</Label>
+            <Label ID="6" Color="0.715862 0.948714 0.697688">Green</Label>
+            <Label ID="7" Color="0.702312 0.888273 0.974258">Blue</Label>
+            <Label ID="8" Color="0.957565 0.766751 0.999619">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 11:44:59 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2022-07-03 17:12:36 -0400"/>
+    </ProjectTargets>
+    <TemplateFolderUUID>0B19D630-7D8D-4209-9D3D-205B3441842A</TemplateFolderUUID>
+    <BookmarksFolderUUID>9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED</BookmarksFolderUUID>
+    <RecentWritingHistory Date="2022-07-03 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

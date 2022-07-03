@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="09250003-E83D-40B9-9003-A3805902D5F2">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by
+
+&lt;$fullname&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;$template_fullName&gt;
+&lt;$template_street&gt;
+&lt;$template_city&gt;
+&lt;$template_state&gt;
+&lt;$template_ZIP&gt;
+&lt;$template_phoneNumber&gt;
+&lt;$template_email&gt;</Text>
+            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from the Author Information settings in File &gt; Options… when the project is created.
+
+Feel free to edit the text of the title page as required.</Notes>
+        </Document>
+        <Document ID="0B19D630-7D8D-4209-9D3D-205B3441842A">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="1938150C-AE2B-449D-877D-7562C3A19ED3">
+            <Title>Scene</Title>
+        </Document>
+        <Document ID="3902C875-2EB1-4EE1-B4D1-1B8CB48720D2">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+Age • Location
+Role in Story:
+Goal:
+Physical Description:
+Personality:
+Occupation:
+Habits/Mannerisms:
+Background:
+Internal Conflicts:
+External Conflicts:
+Notes:
+</Text>
+        </Document>
+        <Document ID="4BC5A8B2-ECF0-4276-95B8-180491ED1288">
+            <Title>Screenplay Format</Title>
+            <Text>SCREENPLAY FORMAT
+About This Template
+When compiled (File &gt; Compile…), this project will generate a formatted screenplay. By default it is set to export to Final Draft format, but you can change this to print it or to export to a different format instead.
+How To Use This Template
+Edit the “Title Page” document inside the “Front Matter” folder to ensure it contains the correct information.
+“&lt;$PROJECTTITLE&gt;” and “&lt;$fullname&gt;” will be replaced during Compile if you fill in the Metadata tab of the Compile window, or you can just replace these tags with the title and name in the text document.
+Create new documents inside the “Screenplay” folder and use Scrivener’s script mode (Format &gt; Scriptwriting &gt; Script Mode - Screenplay) to write your script. It’s up to you whether you use a separate document for each scene or not.
+Note that the “Screenplay” folder is what we refer to in the documentation as the “Draft folder”—it’s just been renamed in this project.
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder.
+You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely).
+To create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+Alternatively, you can just click “Add” or hit Ctrl+N with the Characters or Places folders selected, as they have been set to automatically use their respective sketch sheets via Docments &gt; Default Template for Subdocuments.
+A “Notes” folder has been provided for project-level notes. This has been set as the default Bookmarks folder in Project &gt; Project Settings, so that when you create a new document from the Bookmarks sidebar in a Quick Reference window, the document will be added to this folder.
+Compile your script for printing or exporting by selecting File &gt; Compile…
+A Note on Fonts
+By default, Scrivener uses the “Courier Prime” font for scriptwriting, which has similar dimensions to the “Courier Final Draft” font used by Final Draft. However, because “Courier Prime” is bundled inside Scrivener and is not a system font, it may not be available to other applications. This means that if you export a script using Courier Prime to, say, Word format, and Word does not have access to Courier Prime, Word will substitute a different font and your script may look very different.
+
+To avoid this, Scrivener for Windows will substitute Courier New for Courier Prime during compile to these formats if Courier Prime is not installed outside of Scrivener’s own font folder, and it always writes the file with Courier New listed as the fallback font even when Courier Prime is installed. This way, if the file is opened on another computer that does not have access to Courier Prime, the program opening it should substitute Courier New.
+
+You can also specify a font to override the default compile settings, whether to compile with Courier New even if you have Courier Prime installed or to choose some other font to use throughout the compiled document. To do so, in Compile, beneath where it says “Section Layouts” at the top, change the “Font” setting from “Determined by Section Layout” to the font of your choice.
+Sample Document
+See the “Sample Script” PDF file in the Research folder for an example of a script that has been created using this template.
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.
+
+Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to scriptwriters. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
+
+You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="55A25815-1DD9-4C73-930B-2DAFDF44E64A">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="6EE00691-B91E-46AB-A1D8-9145E3AC0E7E">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="8E4404F9-1F6E-447D-85BF-D5A7880E6ACC">
+            <Title>Sample Script</Title>
+            <Text>                                           SCREENPLAY FORMAT
+                                                         by
+
+                                                Keith Blount
+
+Your name
+Your address
+Your phone number
+Your email address
+
+
+                                                                                                         1.
+
+FADE IN:
+
+INT. A MESSY LIVING ROOM - DAY
+
+KB sits at his laptop, pondering upon the nature of the
+screenplay format. The INTERNET helps him.
+
+                                    KB
+                  How does this work then?
+
+                                    INTERNET
+                  We have an imaginary conversation
+                  about script format. It's not very
+                  sophisticated or imaginative, but
+                  you have a hangover.
+
+                                    KB
+                           (embarrassed)
+                  That's true. So it is easy to
+                  create a standard Hollywood-
+                  formatted screenplay in Scrivener,
+                  then?
+
+                                    INTERNET
+                  Fairly. This PDF file was in fact
+                  created in Scrivener, using the
+                  basic Screenplay project template.
+                  The text was typed using Script
+                  Mode from the Format &gt;
+                  Scriptwriting menu, and then the
+                  whole thing was turned into a PDF
+                  file using Compile (File &gt;
+                  Compile...).
+
+                                    KB
+                  Handy. Right, how should margins be
+                  set up, then?
+
+                                    INTERNET
+                  The left margin should be 1.5
+                  inches, all others should be about
+                  an inch. Scrivener's standard
+                  script elements start half an inch
+                  from the left margin in the editor,
+                  so if you print or export with one
+                  inch margins all around, everything
+                  should be dandy.
+
+                                    KB
+                  What about fonts?
+
+
+                                                                                                         2.
+
+                                    INTERNET
+                  As usual with manuscript
+                  formatting, the standard is a
+                  Courier 12-point font.
+
+KB thinks for a moment before continuing.
+
+                                    KB
+                  What about bold and italics? Can I
+                  use them?
+
+                                    INTERNET
+                  Hell no. No bold, no italics;
+                  nothing fancy.
+
+                                    KB
+                  Can we go to another scene now?
+
+Suddenly, KB gets sucked into the computer.
+
+INT. INSIDE THE COMPUTER - DAY
+
+KB looks around.
+
+                                    KB
+                           (looking around)
+                  What the--
+
+                                    INTERNET (V.O.)
+                  That was a scene heading. All caps.
+                  And this is a voice-over, for no
+                  particular reason.
+
+KB takes a minute to digest that.
+
+                                    KB
+                  Okay, so this is your basic script
+                  format, then. Okay. So how do I get
+                  my script out into Final Draft?
+
+                                    INTERNET (V.O.)
+                  Just select Final Draft (.fdx)
+                  format from the Compile dialog
+                  (File &gt; Compile...).
+
+                                    KB
+                  And what if I want to get my Final
+                  Draft script back into Scrivener?
+
+                                    INTERNET
+                  You could just drag your FDX file
+                  into Scrivener's binder or use File
+                  &gt; Import &gt; Files...
+
+
+                  KB                                 3.
+Cool. Can I go home now? It's     FADE OUT.
+teatime.
+
+                         THE END
+</Text>
+        </Document>
+        <Document ID="9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED">
+            <Title>Notes</Title>
+        </Document>
+        <Document ID="BF2494D2-793A-4113-90B8-269A5D382A91">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="E1C67996-7695-4755-8958-B0EFCD092AD2">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+Location
+Role in Story:
+Related Characters:
+Season:
+Unique Features:
+Description:
+Sights:
+Sounds:
+Smell:
+Notes:
+
+</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

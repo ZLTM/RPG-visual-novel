@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <CompileGroup Type="BinderItem"/>
+            <Filter State="Off" Exclude="No" Type="Label">
+                <Label>-1</Label>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72" MaxSize="0">No</ResampleImages>
+            <ConvertRichTextToMMD>No</ConvertRichTextToMMD>
+            <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
+            <Links/>
+            <PDF>
+                <Cover Source="" Bleed="0.0" BleedUnits="pt"></Cover>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType></ImageResolutionCompressionType>
+                    <ImageResolution>300</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <FirstPageIsTitle>Yes</FirstPageIsTitle>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"></ImageDocument>
+                    <Title>Cover</Title>
+                    <SVG Width="-1" Height="-1"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>fdx</CurrentFileType>
+    <FormatSettings>
+        <Format ID="script-screenplay">
+            <SectionLayouts>
+                <Type ID="09E14DB8-CBCA-40B6-82E2-1DB34FBEDBBB">TEXT-SECTION</Type>
+                <Type ID="3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14">TEXT-SECTION</Type>
+                <Type ID="924AD3CF-7782-4CCC-B7B9-186F46AE3305">6A7D1337-34BD-4F1D-8EC3-0E6DBA2E7DAE</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">6EE00691-B91E-46AB-A1D8-9145E3AC0E7E</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="plain-text-screenplay">
+            <SectionLayouts>
+                <Type ID="09E14DB8-CBCA-40B6-82E2-1DB34FBEDBBB">TEXT-SECTION</Type>
+                <Type ID="3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14">TEXT-SECTION</Type>
+                <Type ID="924AD3CF-7782-4CCC-B7B9-186F46AE3305">TEXT-SECTION</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>6EE00691-B91E-46AB-A1D8-9145E3AC0E7E</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="DEFAULT">
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>6EE00691-B91E-46AB-A1D8-9145E3AC0E7E</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="E3B6CADB-E77E-4A79-8AC1-1F069F2D325F">
+            <SectionLayouts>
+                <Type ID="09E14DB8-CBCA-40B6-82E2-1DB34FBEDBBB">TEXT-SECTION</Type>
+                <Type ID="3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14">TEXT-SECTION</Type>
+                <Type ID="924AD3CF-7782-4CCC-B7B9-186F46AE3305">6A7D1337-34BD-4F1D-8EC3-0E6DBA2E7DAE</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">6EE00691-B91E-46AB-A1D8-9145E3AC0E7E</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="ebook-screenplay">
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>6EE00691-B91E-46AB-A1D8-9145E3AC0E7E</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="C673A806-E4A2-44BA-B7EA-83C0AFAD2153">
+            <SectionLayouts>
+                <Type ID="09E14DB8-CBCA-40B6-82E2-1DB34FBEDBBB">TEXT-SECTION</Type>
+                <Type ID="3FFF34EC-6C1F-47AC-9C6E-D6ABCF98FE14">TEXT-SECTION</Type>
+                <Type ID="924AD3CF-7782-4CCC-B7B9-186F46AE3305">TEXT-SECTION</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>6EE00691-B91E-46AB-A1D8-9145E3AC0E7E</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <Fountain>script-screenplay</Fountain>
+        <Print>script-screenplay</Print>
+        <doc>script-screenplay</doc>
+        <docx>script-screenplay</docx>
+        <epub2>ebook-screenplay</epub2>
+        <epub3>ebook-screenplay</epub3>
+        <fdx>script-screenplay</fdx>
+        <html>DEFAULT</html>
+        <kf8>ebook-screenplay</kf8>
+        <mmd>DEFAULT</mmd>
+        <mmd-latex>DEFAULT</mmd-latex>
+        <odt>script-screenplay</odt>
+        <pdf>script-screenplay</pdf>
+        <rtf>script-screenplay</rtf>
+        <rtfd>script-screenplay</rtfd>
+        <txt>plain-text-screenplay</txt>
+    </LastUsedFormats>
+</CompileSettings>
